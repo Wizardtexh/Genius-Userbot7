@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://github.com/AdityaHalder/Genius-Userbot"><img src="https://graph.org/file/f4e175b28e96bc3fb4cf4.jpg" height="270" width="480" alt="Genius-Userbot"/></a>
+<a href="https://github.com/AdityaHalder/Genius-Userbot"><img src="https://telegra.ph/file/649f231e1228f9518bea1.jpg" height="270" width="480" alt="Genius-Userbot"/></a>
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@ Genius-Userbot is an advanced & powerful multi-featured Telegram userbot.
 <p title="Genius-Userbot">Genius-Userbot is an open-source Telegram userbot developed by using the Python programming language and Pyrogram MTProto client library of the Telegram API and PyTgCalls library, a secure and reliable way to interact with the Telegram platform.</p>
 
 > [!IMPORTANT]
-> If you use Genius-Userbot, it is important that you have proper knowledge about it. You should follow the [**`Documentation`**](https://t.me/adityaserver) to learn about Genius-Userbot.
+> If you use Genius-Userbot, it is important that you have proper knowledge about it. You should follow the [**`Documentation`**](https://t.me/mysterious_chatzz) to learn about Genius-Userbot.
 
 <h2>🤝 Contributing</h2>
 <p title="Contributing">As Genius-Userbot is an open-source project, all kinds of contributions are respectfully welcomed, and I also extend my sincere thanks to all contributors.</p>
@@ -24,9 +24,9 @@ Genius-Userbot is an advanced & powerful multi-featured Telegram userbot.
 <h2>🌐 Updates & Support</h2>
 <p title="Support">You can join Genius-Userbot's official Telegram channel and group on Telegram for any Genius-Userbot updates and support-related issues.</p>
 
-- Telegram Updates: [**`@AdityaServer`**](https://t.me/adityaserver)
+- Telegram Updates: [**`@naksh_vai`**](https://t.me/naksh_accounts)
 
-- Telegram Support: [**`@AdityaDiscus`**](https://t.me/adityadiscus)
+- Telegram Support: [**`@uh_knew_naksh`**](https://t.me/mysterious_chatzz)
 > [!WARNING]  
 > Verify the username of Genius-Userbot's official Telegram channel and group. If you face a problem with a fake channel or group, Genius-Userbot will not take responsibility for it, so I request that you verify Genius-Userbot's official Telegram channel and group.
 
