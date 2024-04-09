@@ -1,7 +1,7 @@
 {
     "name": "Genius-Userbot",
     "description": "Genius-Userbot is an advanced & powerful multi-featured Telegram userbot.",
-    "logo": "https://graph.org/file/292b9dfe74532e7174fd2.png",
+    "logo": "https://telegra.ph/file/649f231e1228f9518bea1.jpg",
     "keywords": [
         "genius-userbot",
         "telegram-userbot",
@@ -12,32 +12,32 @@
     "stack": "container",
     "env": {
         "API_ID": {
-            "description": "Enter your api id here.",
+            "description": "22152362.",
             "value": "",
             "required": true
         },
         "API_HASH": {
-            "description": "Enter your api hash here.",
+            "description": "2df0bf931cc4a8516b43e61263e701b7.",
             "value": "",
             "required": true
         },
         "BOT_TOKEN": {
-            "description": "Enter your bot token here",
+            "description": "7098761736:AAHkCoYu0Ro7iO0rBw26XX1XrG45U0loVD8",
             "value": "",
             "required": true
         },
         "STRING_SESSION": {
-            "description": "Enter your pyrogram v2 string session here.",
+            "description": "BQFSBKoAYByNYpy3DcpX28zcJaN1xQeYM-MZu4nVOj4JU_XcXORVAUMAkjhcOgVXuxfIgz8d8VejCzxarli1i9sVqZnHOdRIH6Y5jPKzKRx04E2wxForRe8kYbY2h4hM1-oWy5Li26GCyIGcg19HJjIzryy4jCbS1Eg7qu2I5orQNDKBgHRwDcj27GoAE_TAR9oPVLppSP_AWBe-7OnVnFuS3lc7wYBHWlRkZIeUYJrztMbuNaE3rE3DsINcnebVjLpwQS4MKIEc0XM9LZ-p183AURurbDDggwWJBTa9h8N3dbcgDwLHK5NVAg5H77XMYqClhzGzD0TV3pKV0OqW4s1-MfYsxgAAAAGj18c8AA.",
             "value": "",
             "required": true
         },
         "MONGO_DB_URL": {
-            "description": "Enter your mongodb url here.",
+            "description": "mongodb+srv://Bikash:Bikash@bikash.yl2nhcy.mongodb.net/?retryWrites=true&w=majority.",
             "value": "",
             "required": true
         },
         "LOG_GROUP_ID": {
-            "description": "Enter your private log group id here.",
+            "description": "-1002101081235.",
             "value": "",
             "required": true
         }
